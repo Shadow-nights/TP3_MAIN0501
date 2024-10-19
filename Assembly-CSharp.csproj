@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{6a6fee6e-7dca-b56b-812a-d1b0f00381bd}</ProjectGuid>
+    <ProjectGuid>{70bedcc6-20f4-a504-cc95-c54b6d2b1cf1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -36,10 +36,10 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\ControlCamera.cs" />
-     <Compile Include="Assets\CrochetMove.cs" />
+     <Compile Include="Assets\Scripts\ControlCamera.cs" />
+     <Compile Include="Assets\Scripts\CrochetMove.cs" />
      <Compile Include="Assets\Scripts\RotationControleur.cs" />
-     <Compile Include="Assets\RoueMove.cs" />
+     <Compile Include="Assets\Scripts\RoueMove.cs" />
      <Compile Include="Assets\Scripts\TranslationControleur.cs" />
      <Compile Include="Assets\Scripts\RotationCommande.cs" />
      <Compile Include="Assets\Scripts\TranslationCommande.cs" />
@@ -614,34 +614,34 @@
         <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.44f1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Xml.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-        <HintPath>C:\Users\Nathaniel\Unity\TP3\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
+        <HintPath>C:\Users\Nathaniel\Unity\TP3\TP3_MAIN0501\Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-        <HintPath>C:\Users\Nathaniel\Unity\TP3\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
+        <HintPath>C:\Users\Nathaniel\Unity\TP3\TP3_MAIN0501\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualStudio.Editor">
-        <HintPath>C:\Users\Nathaniel\Unity\TP3\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
+        <HintPath>C:\Users\Nathaniel\Unity\TP3\TP3_MAIN0501\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-        <HintPath>C:\Users\Nathaniel\Unity\TP3\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
+        <HintPath>C:\Users\Nathaniel\Unity\TP3\TP3_MAIN0501\Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-        <HintPath>C:\Users\Nathaniel\Unity\TP3\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
+        <HintPath>C:\Users\Nathaniel\Unity\TP3\TP3_MAIN0501\Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-        <HintPath>C:\Users\Nathaniel\Unity\TP3\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
+        <HintPath>C:\Users\Nathaniel\Unity\TP3\TP3_MAIN0501\Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>C:\Users\Nathaniel\Unity\TP3\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
+        <HintPath>C:\Users\Nathaniel\Unity\TP3\TP3_MAIN0501\Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PlasticSCM.Editor">
-        <HintPath>C:\Users\Nathaniel\Unity\TP3\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
+        <HintPath>C:\Users\Nathaniel\Unity\TP3\TP3_MAIN0501\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-        <HintPath>C:\Users\Nathaniel\Unity\TP3\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
+        <HintPath>C:\Users\Nathaniel\Unity\TP3\TP3_MAIN0501\Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>C:\Users\Nathaniel\Unity\TP3\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+        <HintPath>C:\Users\Nathaniel\Unity\TP3\TP3_MAIN0501\Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

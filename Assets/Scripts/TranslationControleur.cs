@@ -31,22 +31,4 @@ public class TranslationControleur : MonoBehaviour
             articulation.xDrive = drive;
         }
     }
-    void OnGUI(){
-        // Définir la position et la taille du rectangle
-        Rect rect = new Rect(10, 10, 200, 220);
-        
-        // Dessiner le rectangle
-        GUI.Box(rect, "Commande Grue");
-
-        // Ajouter les labels de texte
-        GUI.Label(new Rect(20, 40, 180, 20), "Bouger : Flèche directionnelle");
-        GUI.Label(new Rect(20, 60, 180, 20), "Chariot : Z et S");
-        GUI.Label(new Rect(20, 80, 180, 20), "Lever/Baisser la Flèche : W/X");
-        GUI.Label(new Rect(20, 100, 180, 20), "Tourner la Flèche : C/V");
-        GUI.Label(new Rect(20, 120, 180, 20), "Grappin : T/G");
-        GUI.Label(new Rect(20, 140, 180, 20), "Déployer/replier bras : A/E");
-        GUI.Label(new Rect(20, 160, 180, 20), "Poser bras : R/F");
-        GUI.Label(new Rect(20, 180, 180, 20), "Changer de caméra : O/P");
-        GUI.Label(new Rect(20, 200, 180, 20), "Lâcher un objet : Espace");
-    }
 }

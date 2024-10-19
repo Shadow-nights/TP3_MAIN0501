@@ -9,8 +9,8 @@ InputManager:
     m_Name: Fleche
     descriptiveName: 
     descriptiveNegativeName: 
-    negativeButton: x
-    positiveButton: w
+    negativeButton: a
+    positiveButton: q
     altNegativeButton: 
     altPositiveButton: 
     gravity: 3000
@@ -25,8 +25,8 @@ InputManager:
     m_Name: Chariot
     descriptiveName: 
     descriptiveNegativeName: 
-    negativeButton: s
-    positiveButton: z
+    negativeButton: z
+    positiveButton: s
     altNegativeButton: 
     altPositiveButton: 
     gravity: 3
@@ -41,8 +41,8 @@ InputManager:
     m_Name: Support
     descriptiveName: 
     descriptiveNegativeName: 
-    negativeButton: a
-    positiveButton: e
+    negativeButton: e
+    positiveButton: d
     altNegativeButton: 
     altPositiveButton: 
     gravity: 3
@@ -89,8 +89,8 @@ InputManager:
     m_Name: Mat
     descriptiveName: 
     descriptiveNegativeName: 
-    negativeButton: c
-    positiveButton: v
+    negativeButton: y
+    positiveButton: h
     altNegativeButton: 
     altPositiveButton: 
     gravity: 3
