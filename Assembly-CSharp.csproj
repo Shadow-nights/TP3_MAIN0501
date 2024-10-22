@@ -43,6 +43,8 @@
      <Compile Include="Assets\Scripts\TranslationControleur.cs" />
      <Compile Include="Assets\Scripts\RotationCommande.cs" />
      <Compile Include="Assets\Scripts\TranslationCommande.cs" />
+     <Compile Include="Assets\Scripts\Grappin.cs" />
+     <Compile Include="Assets\Scripts\Declencheur.cs" />
     <Reference Include="UnityEngine">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.44f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
